@@ -15,3 +15,18 @@
 > Return the leftmost pivot index. If no such index exists, return `-1`.
 
 [724](https://leetcode.com/problems/find-pivot-index/solutions/3353299/awful-simple-solution-in-rust/)
+
+## Ex 205
+
+> Given two strings `s` and `t`, determine if they're isomorphic.
+> Two strings `s` and `t` are isomorphic if the characters in `s` can be replaced to get `t`.
+> All occurrences of a character must be replaced with another character while preserving the order of characters. No two characters may map to the same character, but a character may map to itself.
+
+[205](https://leetcode.com/problems/isomorphic-strings/solutions/3353462/wtf-solution-for-wtf-problem/)
+
+## Ex 392 
+
+> Given two strings `s` and `t` return true if `s`is a subsequence of `t`, false otherwise.
+> A subsequence of a string is a new string that is formed from the original string by deleting some (can be none) of the characters without disturbing the relative positions of the remaining characters. (i.e., "ace" is a subsequence of "abcde" while "aec" is not).
+
+[392](https://leetcode.com/problems/is-subsequence/solutions/3356425/100-time/)
